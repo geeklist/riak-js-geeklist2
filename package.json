@@ -1,5 +1,5 @@
 {
-   "name": "riak-js",
+   "name": "riak-js2",
    "version": "0.4.1338",
    "description": "Riak client with support for HTTP and Protocol Buffers",
    "keywords": [
